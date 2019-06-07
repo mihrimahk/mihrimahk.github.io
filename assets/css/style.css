@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Noto Serif', serif;
-  font-size: 120%;
+  font-size: 100%;
   
 }
 
@@ -29,7 +29,7 @@ body {
 
 .navBorder:hover {
   background-color: black;
-  color: #A5CFC9;
+  color: white;
   padding: 2%;
   border-radius: 5px;
   padding-bottom:7%;
@@ -66,19 +66,19 @@ body {
 
 .name {
   font-weight: bolder;
-  font-size: 300%;
+  font-size: 250%;
   margin-top: 8%;
 }
 
 .profession {
   font-weight: bold;
-  font-size: 250%;
+  font-size: 150%;
 }
 
 
 .skills {
   font-size: 175%;
-  font-weight: bolder;
+  font-weight: bold;
   line-height: 80%;
 }
 
@@ -95,7 +95,7 @@ body {
 }
 
 .bg-secondary {
-  background-color:#A5CFC9 !important;
+  background-color:#16a8b4 !important;
 }
 
 .aboutSection {
@@ -108,7 +108,7 @@ body {
 .aboutParagraph {
   text-align: left;
   color:black;
-  font-weight:bolder;
+  font-weight:bold;
   font-size: 150%;
 }
 
@@ -149,7 +149,7 @@ body {
 }
 
 .contact {
-  background-color: #a6ac32;
+  background-color: #0d1111;
   text-align: center;
   padding-top: 1%;
   padding-bottom: 2%;
@@ -164,7 +164,7 @@ body {
   background-repeat: no-repeat;
 }
 #contactSection {
-  background-color: #a6ac32;  
+  background-color: #0d1111;  
 
 }
 
@@ -181,8 +181,8 @@ a:hover {
 
 .footer {
   text-align: center;
-  background-color:#A5CFC9;
-  color:black;
+  background-color:#0d1111;
+  color:white;
   font-size: 100%;
   padding: 1%;
 }
